@@ -1,0 +1,15 @@
+{
+  "name": "displayserver",
+  "version": "1.0.0",
+  "description": "web server to pick up disaster data from sql server and send to the requesting page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eternal Void",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}

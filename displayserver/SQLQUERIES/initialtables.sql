@@ -1,0 +1,26 @@
+create table PERSON(
+USERNAME varchar(20),
+PERSON_NAME varchar(20),
+PERSON_TYPE char,
+LOCATION_ID int,
+PHONE_NUMBER varchar(10),
+VERIFIED BOOL,
+);
+
+create table RESOURCE(
+LOCATION_ID int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+RESOURCE_NAME varchar(20),
+REPORTING_TIME time,
+RESOURCE_TYPE varchar(20),
+RESOURCE_DESCRIPTION varchar(50)
+);
+
+create table LOCATION(
+LOCATION_ID int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+STATE varchar(20),
+CITY varchar(20),
+ROAD varchar(20),
+STREET varchar(20),
+COLONY varchar(20),
+HOUSE_NO varchar(20)
+);

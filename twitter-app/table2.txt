@@ -1,0 +1,22 @@
+ Location Contact TOP
+0 "deua river " 0847279392 can_help
+1 "mongarlowe " 9863758273 can_help
+2 "braidwood museum " 9843893493 in_need
+3 "braidwood central school " 8434783487 in_need
+4 "bombay reserve " 56446284858 in_need
+5 "saddle camp " 9756284858 in_need
+6 "oaks estate " 9863758273 can_help
+7 "ashrang " 9756284858 in_need
+8 "mirkot nepal " 9863758273 can_help
+9 "gajuri " 56446284858 in_need
+10 "bhumlichowk " 8434783487 in_need
+11 "taklung " 9843893493 in_need
+12 "ghairung " 9863758273 can_help
+13 "manakamana temple " 0847279392 can_help
+14 "ayyapakkam " 0847279392 can_help
+15 "madhiravedu " 9863758273 can_help
+16 "apollo hospital " 9843893493 in_need
+17 "royal club " 8434783487 in_need
+18 "kumaran theatre " 56446284858 in_need
+19 "advent church " 9756284858 in_need
+20 "jazz cinemas luxe chennai " 9863758273 can_help

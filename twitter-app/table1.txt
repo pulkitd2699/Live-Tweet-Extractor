@@ -1,0 +1,22 @@
+ Created_at Text Disaster Location
+0 "2020-01-19 22:28:47" "#AustralianWildFires  Contact: 0847279392 and get free food camp at Deua River Campgrounds, New south wales :)" WildFires Australian
+1 "2020-01-19 22:27:21" "#AustralianWildFires  Help available on these numbers: 9863758273, 9823934892 at Mongarlowe." WildFires Australian
+2 "2020-01-19 22:26:20" "Please save us #AustralianWildFires ! Contact me here 9843893493. I require rescue team at Braidwood Museum." WildFires Australian
+3 "2020-01-19 22:25:25" "Please help us #AustralianWildFires ! 8434783487 is my number. We urgently need to be rescued from Braidwood Central School." WildFires Australian
+4 "2020-01-19 22:24:09" "Please help us #AustralianWildFires ! 56446284858 is my number. We are starving and need help at Bombay Reserve." WildFires Australian
+5 "2020-01-19 22:22:57" "Please help us #AustralianWildfires! 9756284858 is my number. We are stuck in the area of Saddle Camp." Wildfires Australian
+6 "2020-01-19 22:20:13" "#AustralianWildfires ... Contact: 9863758273!! I can accommodate 5 people in Oaks Estate." Wildfires Australian
+7 "2020-01-19 22:16:19" "Please help us #NepalEarthquake! 9756284858 is my number. We are stuck in a building in Ashrang." Earthquake Nepal
+8 "2020-01-19 22:15:17" "#NepalEarthquake ... Contact: 9863758273!! I can accommodate 5 people in Mirkot, Nepal" Earthquake Nepal
+9 "2020-01-19 22:14:14" "Please help us #NepalEarthquake! 56446284858 is my number. We are starving and need help at Gajuri." Earthquake Nepal
+10 "2020-01-19 22:12:48" "Please help us #NepalEarthquake! 8434783487 is my number. We urgently need to be rescued from Bhumlichowk." Earthquake Nepal
+11 "2020-01-19 22:11:51" "Please save us #Nepalearthquake! Contact me here 9843893493. I require rescue team at Taklung." earthquake Nepal
+12 "2020-01-19 22:10:58" "#NepalEarthquake Help available on these numbers: 9863758273, 9823934892 at Ghairung." Earthquake Nepal
+13 "2020-01-19 22:10:10" "#NepalEarthquake Contact: 0847279392 and get free food camp at Manakamana Temple :)" Earthquake Nepal
+14 "2020-01-19 22:01:16" "#ChennaiFloods Contact: 0847279392 and get free food camp at Ayyapakkam :)" Floods Chennai
+15 "2020-01-19 21:58:24" "#ChennaiFloods Help available on these numbers: 9863758273, 9823934892 at Madhiravedu." Floods Chennai
+16 "2020-01-19 21:55:26" "Please save us #ChennaiFloods! Contact me here 9843893493. I require rescue team at Apollo Hospital." Floods Chennai
+17 "2020-01-19 21:51:38" "Please help us #ChennaiFloods! 8434783487 is my number. We urgently need to be rescued from Royal Club" Floods Chennai
+18 "2020-01-19 21:48:25" "Please help us #ChennaiFloods! 56446284858 is my number. We are starving and need help at Kumaran Theatre." Floods Chennai
+19 "2020-01-19 21:47:35" "Please help us #ChennaiFloods! 9756284858 is my number. We are stuck in a building of Advent Church." Floods Chennai
+20 "2020-01-19 21:45:04" "#ChennaiFloods ... Contact: 9863758273!! I can accommodate 5 people in Jazz Cinemas Luxe, Chennai" Floods Chennai

@@ -1,0 +1,195 @@
+0 "RT @SavinTheBees: This is the greatest voice acting performance ever lol https://t.co/upYxEnUMXr" 96 "2018-04-12 05:01:18"  0 43069 "{'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'SavinTheBees', 'name': 'Plathanos 🐝🇩🇴 #HIVESZN', 'id': 3183019908, 'id_str': '3183019908', 'indices': [3, 16]}], 'urls': [], 'media': [{'id': 982132517577764864, 'id_str': '982132517577764864', 'indices': [73, 96], 'media_url': 'http://pbs.twimg.com/ext_tw_video_thumb/982132517577764864/pu/img/dlGEV7lKri3mo2ia.jpg', 'media_url_https': 'https://pbs.twimg.com/ext_tw_video_thumb/982132517577764864/pu/img/dlGEV7lKri3mo2ia.jpg', 'url': 'https://t.co/upYxEnUMXr', 'display_url': 'pic.twitter.com/upYxEnUMXr', 'expanded_url': 'https://twitter.com/SavinTheBees/status/982132564302249985/video/1', 'type': 'photo', 'sizes': {'thumb': {'w': 150, 'h': 150, 'resize': 'crop'}, 'small': {'w': 680, 'h': 504, 'resize': 'fit'}, 'medium': {'w': 720, 'h': 534, 'resize': 'fit'}, 'large': {'w': 720, 'h': 534, 'resize': 'fit'}}, 'source_status_id': 982132564302249985, 'source_status_id_str': '982132564302249985', 'source_user_id': 3183019908, 'source_user_id_str': '3183019908', 'features': {}}]}" 
+1 "RT @mimiadraws: ah, that one painting... The Smooch https://t.co/NZRi1GwNw1" 75 "2018-04-12 04:55:54"  0 304 "{'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'mimiadraws', 'name': 'Amelia Allore 💖 commissions open!', 'id': 3106495690, 'id_str': '3106495690', 'indices': [3, 14]}], 'urls': [], 'media': [{'id': 983788334928486401, 'id_str': '983788334928486401', 'indices': [52, 75], 'media_url': 'http://pbs.twimg.com/media/DaceRz2V4AEhdXY.jpg', 'media_url_https': 'https://pbs.twimg.com/media/DaceRz2V4AEhdXY.jpg', 'url': 'https://t.co/NZRi1GwNw1', 'display_url': 'pic.twitter.com/NZRi1GwNw1', 'expanded_url': 'https://twitter.com/mimiadraws/status/983788390502957063/photo/1', 'type': 'photo', 'sizes': {'medium': {'w': 584, 'h': 752, 'resize': 'fit'}, 'small': {'w': 528, 'h': 680, 'resize': 'fit'}, 'thumb': {'w': 150, 'h': 150, 'resize': 'crop'}, 'large': {'w': 584, 'h': 752, 'resize': 'fit'}}, 'source_status_id': 983788390502957063, 'source_status_id_str': '983788390502957063', 'source_user_id': 3106495690, 'source_user_id_str': '3106495690', 'features': {'medium': {'faces': []}, 'small': {'faces': []}, 'orig': {'faces': []}, 'large': {'faces': []}}}]}" 
+2 "RT @_inktho: Reasons why I’m an artist https://t.co/4AxOMwqmwh" 62 "2018-04-12 04:54:01"  0 877 "{'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': '_inktho', 'name': '🐛katy, rickenluvr', 'id': 2512102381, 'id_str': '2512102381', 'indices': [3, 11]}], 'urls': [], 'media': [{'id': 983604485711802368, 'id_str': '983604485711802368', 'indices': [39, 62], 'media_url': 'http://pbs.twimg.com/media/DaZ3EYJVMAAINgs.jpg', 'media_url_https': 'https://pbs.twimg.com/media/DaZ3EYJVMAAINgs.jpg', 'url': 'https://t.co/4AxOMwqmwh', 'display_url': 'pic.twitter.com/4AxOMwqmwh', 'expanded_url': 'https://twitter.com/_inktho/status/983604515243933696/photo/1', 'type': 'photo', 'sizes': {'medium': {'w': 762, 'h': 1024, 'resize': 'fit'}, 'thumb': {'w': 150, 'h': 150, 'resize': 'crop'}, 'small': {'w': 506, 'h': 680, 'resize': 'fit'}, 'large': {'w': 762, 'h': 1024, 'resize': 'fit'}}, 'source_status_id': 983604515243933696, 'source_status_id_str': '983604515243933696', 'source_user_id': 2512102381, 'source_user_id_str': '2512102381', 'features': {'medium': {'faces': []}, 'orig': {'faces': []}, 'small': {'faces': []}, 'large': {'faces': []}}}]}" 
+3 "Find your bae as savage as you! https://t.co/92gIW0kbAm" 55 "2018-04-12 04:53:39"  0 0 "{'hashtags': [], 'symbols': [], 'user_mentions': [], 'urls': [{'url': 'https://t.co/92gIW0kbAm', 'expanded_url': 'https://twitter.com/niicococo/status/982992212693839873', 'display_url': 'twitter.com/niicococo/stat…', 'indices': [32, 55]}]}" 
+4 "She: I want a hug! 
+Mechanical Engineer : Compass
+            ""awkward silence""" 79 "2017-09-14 15:43:16"  5 0 "{'hashtags': [], 'symbols': [], 'user_mentions': [], 'urls': []}" 
+5 "RT @kalyanrath: Khud ke description main 'sarcastic' likhne waale log sarcastic nahi, wannabe hote hain." 104 "2017-09-10 04:50:18"  0 708 "{'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'kalyanrath', 'name': 'Biswa Kalyan Rath', 'id': 44595330, 'id_str': '44595330', 'indices': [3, 14]}], 'urls': []}" 
+6 "RT @IISuperwomanII: You don't need to label yourself. Just be you. No one needs an explanation." 95 "2017-09-10 04:50:01"  0 3482 "{'hashtags': [], 'symbols': [], 'user_mentions': [], 'urls': []}" 
+7 "RT @IISuperwomanII: You got that good boy attitude and yeah, I kinda like it." 77 "2017-09-01 18:07:01"  0 3603 "{'hashtags': [], 'symbols': [], 'user_mentions': [], 'urls': []}" 
+8 "RT @IISuperwomanII: Sometimes you just have to accept that you're not compatible with people. No matter who they are." 117 "2017-08-12 14:23:15"  0 2309 "{'hashtags': [], 'symbols': [], 'user_mentions': [], 'urls': []}" 
+9 "RT @Barshapandey11: When a hot girl poses in a picture.
+My friends :- you are beautiful dear..
+And when its me posing
+F :- "" ye kya kar rah…" 140 "2017-08-09 16:28:49"  0 2 "{'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'Barshapandey11', 'name': 'barshap', 'id': 853368460738428928, 'id_str': '853368460738428928', 'indices': [3, 18]}], 'urls': []}" 
+10 "RT @AbhiUpmanyu: Q:What was that girl doing at midnight alone?
+
+A:Probably returning home frm a party or something else that's NORMAL &amp; non…" 144 "2017-08-07 14:43:06"  0 268 "{'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'AbhiUpmanyu', 'name': 'Abhishek Upmanyu', 'id': 2397437311, 'id_str': '2397437311', 'indices': [3, 15]}], 'urls': []}" 
+11 "RT @AbhiUpmanyu: @RahulSubramanic Pehle soch le, fir Sochna. Soche bina Sochna bhi Nahi chahiye." 96 "2017-07-29 17:58:44"  0 24 "{'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'AbhiUpmanyu', 'name': 'Abhishek Upmanyu', 'id': 2397437311, 'id_str': '2397437311', 'indices': [3, 15]}], 'urls': []}" 
+12 "RT @abishmathew: It should be made a mandate to check a person's playlist before tying the knot!" 96 "2017-07-29 06:55:11"  0 63 "{'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'abishmathew', 'name': 'Abish Mathew', 'id': 102957248, 'id_str': '102957248', 'indices': [3, 15]}], 'urls': []}" 
+13 "RT @FeminaIndia: Because cake is #bae. https://t.co/1Xa8aJNXvC" 62 "2017-07-29 06:54:02"  0 6 "{'hashtags': [{'text': 'bae', 'indices': [33, 37]}], 'symbols': [], 'user_mentions': [{'screen_name': 'FeminaIndia', 'name': 'Femina', 'id': 67594122, 'id_str': '67594122', 'indices': [3, 15]}], 'urls': [], 'media': [{'id': 890917843436359685, 'id_str': '890917843436359685', 'indices': [39, 62], 'media_url': 'http://pbs.twimg.com/media/DF0tDu4U0AUpbGV.jpg', 'media_url_https': 'https://pbs.twimg.com/media/DF0tDu4U0AUpbGV.jpg', 'url': 'https://t.co/1Xa8aJNXvC', 'display_url': 'pic.twitter.com/1Xa8aJNXvC', 'expanded_url': 'https://twitter.com/FeminaIndia/status/891187788179267584/photo/1', 'type': 'photo', 'sizes': {'thumb': {'w': 150, 'h': 150, 'resize': 'crop'}, 'medium': {'w': 960, 'h': 960, 'resize': 'fit'}, 'small': {'w': 680, 'h': 680, 'resize': 'fit'}, 'large': {'w': 960, 'h': 960, 'resize': 'fit'}}, 'source_status_id': 891187788179267584, 'source_status_id_str': '891187788179267584', 'source_user_id': 67594122, 'source_user_id_str': '67594122', 'features': {'medium': {'faces': [{'x': 306, 'y': 185, 'h': 406, 'w': 406}]}, 'small': {'faces': [{'x': 216, 'y': 131, 'h': 287, 'w': 287}]}, 'orig': {'faces': [{'x': 306, 'y': 185, 'h': 406, 'w': 406}]}, 'large': {'faces': [{'x': 306, 'y': 185, 'h': 406, 'w': 406}]}}}]}" 
+14 "Jab Harry met Annabelle!!! https://t.co/Qpci1qYvWO" 50 "2017-07-29 06:45:45"  1 0 "{'hashtags': [], 'symbols': [], 'user_mentions': [], 'urls': [], 'media': [{'id': 891187922501808128, 'id_str': '891187922501808128', 'indices': [27, 50], 'media_url': 'http://pbs.twimg.com/media/DF4isZzWsAAn-J2.jpg', 'media_url_https': 'https://pbs.twimg.com/media/DF4isZzWsAAn-J2.jpg', 'url': 'https://t.co/Qpci1qYvWO', 'display_url': 'pic.twitter.com/Qpci1qYvWO', 'expanded_url': 'https://twitter.com/devanshi_g25/status/891187975840780288/photo/1', 'type': 'photo', 'sizes': {'small': {'w': 680, 'h': 658, 'resize': 'fit'}, 'medium': {'w': 1024, 'h': 991, 'resize': 'fit'}, 'thumb': {'w': 150, 'h': 150, 'resize': 'crop'}, 'large': {'w': 1024, 'h': 991, 'resize': 'fit'}}, 'features': {'orig': {'faces': [{'x': 408, 'y': 776, 'h': 101, 'w': 101}, {'x': 445, 'y': 213, 'h': 133, 'w': 133}, {'x': 202, 'y': 150, 'h': 190, 'w': 190}]}, 'small': {'faces': [{'x': 270, 'y': 515, 'h': 67, 'w': 67}, {'x': 295, 'y': 141, 'h': 88, 'w': 88}, {'x': 134, 'y': 99, 'h': 126, 'w': 126}]}, 'medium': {'faces': [{'x': 408, 'y': 776, 'h': 101, 'w': 101}, {'x': 445, 'y': 213, 'h': 133, 'w': 133}, {'x': 202, 'y': 150, 'h': 190, 'w': 190}]}, 'large': {'faces': [{'x': 408, 'y': 776, 'h': 101, 'w': 101}, {'x': 445, 'y': 213, 'h': 133, 'w': 133}, {'x': 202, 'y': 150, 'h': 190, 'w': 190}]}}}]}" 
+15 "RT @abishmathew: It doesn't matter when you go to bed, what matters is when you put your phone down!" 100 "2017-07-28 13:01:08"  0 367 "{'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'abishmathew', 'name': 'Abish Mathew', 'id': 102957248, 'id_str': '102957248', 'indices': [3, 15]}], 'urls': []}" 
+16 "RT @Tigeronhunt_: ""Pyaar"" se Dar nhi lagta Saab... ""You deserve better"" se lgta hai" 83 "2017-07-27 13:40:49"  0 15 "{'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'Tigeronhunt_', 'name': 'Tyrion Lannister', 'id': 875309898199834624, 'id_str': '875309898199834624', 'indices': [3, 16]}], 'urls': []}" 
+17 "When u switch off the gas stove exactly after 3 seetis.... https://t.co/LkWx50xvpj" 82 "2017-07-27 13:33:32"  4 0 "{'hashtags': [], 'symbols': [], 'user_mentions': [], 'urls': [], 'media': [{'id': 890565806521802752, 'id_str': '890565806521802752', 'indices': [59, 82], 'media_url': 'http://pbs.twimg.com/media/DFvs4fLXYAAiliM.jpg', 'media_url_https': 'https://pbs.twimg.com/media/DFvs4fLXYAAiliM.jpg', 'url': 'https://t.co/LkWx50xvpj', 'display_url': 'pic.twitter.com/LkWx50xvpj', 'expanded_url': 'https://twitter.com/devanshi_g25/status/890565823139639296/photo/1', 'type': 'photo', 'sizes': {'medium': {'w': 719, 'h': 890, 'resize': 'fit'}, 'large': {'w': 719, 'h': 890, 'resize': 'fit'}, 'thumb': {'w': 150, 'h': 150, 'resize': 'crop'}, 'small': {'w': 549, 'h': 680, 'resize': 'fit'}}, 'features': {'medium': {'faces': [{'x': 295, 'y': 314, 'h': 54, 'w': 54}, {'x': 38, 'y': 347, 'h': 67, 'w': 67}, {'x': 122, 'y': 355, 'h': 57, 'w': 57}, {'x': 416, 'y': 353, 'h': 58, 'w': 58}, {'x': 479, 'y': 366, 'h': 65, 'w': 65}, {'x': 302, 'y': 633, 'h': 66, 'w': 66}, {'x': 493, 'y': 666, 'h': 61, 'w': 61}, {'x': 598, 'y': 400, 'h': 77, 'w': 77}, {'x': 332, 'y': 352, 'h': 89, 'w': 89}, {'x': 237, 'y': 483, 'h': 88, 'w': 88}, {'x': 31, 'y': 747, 'h': 93, 'w': 93}, {'x': 367, 'y': 697, 'h': 103, 'w': 103}, {'x': 92, 'y': 782, 'h': 97, 'w': 97}, {'x': 580, 'y': 759, 'h': 106, 'w': 106}]}, 'large': {'faces': [{'x': 295, 'y': 314, 'h': 54, 'w': 54}, {'x': 38, 'y': 347, 'h': 67, 'w': 67}, {'x': 122, 'y': 355, 'h': 57, 'w': 57}, {'x': 416, 'y': 353, 'h': 58, 'w': 58}, {'x': 479, 'y': 366, 'h': 65, 'w': 65}, {'x': 302, 'y': 633, 'h': 66, 'w': 66}, {'x': 493, 'y': 666, 'h': 61, 'w': 61}, {'x': 598, 'y': 400, 'h': 77, 'w': 77}, {'x': 332, 'y': 352, 'h': 89, 'w': 89}, {'x': 237, 'y': 483, 'h': 88, 'w': 88}, {'x': 31, 'y': 747, 'h': 93, 'w': 93}, {'x': 367, 'y': 697, 'h': 103, 'w': 103}, {'x': 92, 'y': 782, 'h': 97, 'w': 97}, {'x': 580, 'y': 759, 'h': 106, 'w': 106}]}, 'orig': {'faces': [{'x': 295, 'y': 314, 'h': 54, 'w': 54}, {'x': 38, 'y': 347, 'h': 67, 'w': 67}, {'x': 122, 'y': 355, 'h': 57, 'w': 57}, {'x': 416, 'y': 353, 'h': 58, 'w': 58}, {'x': 479, 'y': 366, 'h': 65, 'w': 65}, {'x': 302, 'y': 633, 'h': 66, 'w': 66}, {'x': 493, 'y': 666, 'h': 61, 'w': 61}, {'x': 598, 'y': 400, 'h': 77, 'w': 77}, {'x': 332, 'y': 352, 'h': 89, 'w': 89}, {'x': 237, 'y': 483, 'h': 88, 'w': 88}, {'x': 31, 'y': 747, 'h': 93, 'w': 93}, {'x': 367, 'y': 697, 'h': 103, 'w': 103}, {'x': 92, 'y': 782, 'h': 97, 'w': 97}, {'x': 580, 'y': 759, 'h': 106, 'w': 106}]}, 'small': {'faces': [{'x': 225, 'y': 239, 'h': 41, 'w': 41}, {'x': 29, 'y': 264, 'h': 51, 'w': 51}, {'x': 93, 'y': 271, 'h': 43, 'w': 43}, {'x': 317, 'y': 269, 'h': 44, 'w': 44}, {'x': 365, 'y': 279, 'h': 49, 'w': 49}, {'x': 230, 'y': 483, 'h': 50, 'w': 50}, {'x': 376, 'y': 508, 'h': 46, 'w': 46}, {'x': 456, 'y': 305, 'h': 58, 'w': 58}, {'x': 253, 'y': 268, 'h': 67, 'w': 67}, {'x': 180, 'y': 368, 'h': 67, 'w': 67}, {'x': 23, 'y': 570, 'h': 71, 'w': 71}, {'x': 280, 'y': 532, 'h': 78, 'w': 78}, {'x': 70, 'y': 597, 'h': 74, 'w': 74}, {'x': 442, 'y': 579, 'h': 80, 'w': 80}]}}}]}" 
+18 "RT @SuckerForHumour: When you get 6-6-5 in ludo https://t.co/TgvnifxSnb" 71 "2017-07-27 13:31:57"  0 8 "{'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'SuckerForHumour', 'name': 'Shayan⚡', 'id': 850615247769661441, 'id_str': '850615247769661441', 'indices': [3, 19]}], 'urls': [], 'media': [{'id': 890518492599820288, 'id_str': '890518492599820288', 'indices': [48, 71], 'media_url': 'http://pbs.twimg.com/media/DFvB2dFUIAA_rM_.jpg', 'media_url_https': 'https://pbs.twimg.com/media/DFvB2dFUIAA_rM_.jpg', 'url': 'https://t.co/TgvnifxSnb', 'display_url': 'pic.twitter.com/TgvnifxSnb', 'expanded_url': 'https://twitter.com/SuckerForHumour/status/890518505149181952/photo/1', 'type': 'photo', 'sizes': {'thumb': {'w': 150, 'h': 150, 'resize': 'crop'}, 'large': {'w': 775, 'h': 960, 'resize': 'fit'}, 'small': {'w': 549, 'h': 680, 'resize': 'fit'}, 'medium': {'w': 775, 'h': 960, 'resize': 'fit'}}, 'source_status_id': 890518505149181952, 'source_status_id_str': '890518505149181952', 'source_user_id': 850615247769661441, 'source_user_id_str': '850615247769661441', 'features': {'all': {'tags': [{'type': 'user', 'user_id': '834818757767872513', 'screen_name': 'logic_humor', 'name': '.DOT'}, {'type': 'user', 'user_id': '468479147', 'screen_name': 'AllIndiaBakchod', 'name': 'All India Bakchod'}]}, 'large': {'faces': [{'x': 392, 'y': 888, 'h': 37, 'w': 37}, {'x': 131, 'y': 375, 'h': 64, 'w': 64}, {'x': 450, 'y': 377, 'h': 58, 'w': 58}, {'x': 317, 'y': 332, 'h': 58, 'w': 58}, {'x': 41, 'y': 368, 'h': 70, 'w': 70}, {'x': 531, 'y': 712, 'h': 65, 'w': 65}, {'x': 515, 'y': 388, 'h': 70, 'w': 70}, {'x': 327, 'y': 677, 'h': 69, 'w': 69}, {'x': 644, 'y': 425, 'h': 83, 'w': 83}, {'x': 357, 'y': 371, 'h': 98, 'w': 98}, {'x': 256, 'y': 515, 'h': 93, 'w': 93}, {'x': 393, 'y': 744, 'h': 114, 'w': 114}, {'x': 30, 'y': 797, 'h': 108, 'w': 108}, {'x': 626, 'y': 812, 'h': 111, 'w': 111}, {'x': 95, 'y': 833, 'h': 114, 'w': 114}]}, 'small': {'faces': [{'x': 277, 'y': 629, 'h': 26, 'w': 26}, {'x': 92, 'y': 265, 'h': 45, 'w': 45}, {'x': 318, 'y': 267, 'h': 41, 'w': 41}, {'x': 224, 'y': 235, 'h': 41, 'w': 41}, {'x': 29, 'y': 260, 'h': 49, 'w': 49}, {'x': 376, 'y': 504, 'h': 46, 'w': 46}, {'x': 364, 'y': 274, 'h': 49, 'w': 49}, {'x': 231, 'y': 479, 'h': 48, 'w': 48}, {'x': 456, 'y': 301, 'h': 58, 'w': 58}, {'x': 252, 'y': 262, 'h': 69, 'w': 69}, {'x': 181, 'y': 364, 'h': 65, 'w': 65}, {'x': 278, 'y': 527, 'h': 80, 'w': 80}, {'x': 21, 'y': 564, 'h': 76, 'w': 76}, {'x': 443, 'y': 575, 'h': 78, 'w': 78}, {'x': 67, 'y': 590, 'h': 80, 'w': 80}]}, 'medium': {'faces': [{'x': 392, 'y': 888, 'h': 37, 'w': 37}, {'x': 131, 'y': 375, 'h': 64, 'w': 64}, {'x': 450, 'y': 377, 'h': 58, 'w': 58}, {'x': 317, 'y': 332, 'h': 58, 'w': 58}, {'x': 41, 'y': 368, 'h': 70, 'w': 70}, {'x': 531, 'y': 712, 'h': 65, 'w': 65}, {'x': 515, 'y': 388, 'h': 70, 'w': 70}, {'x': 327, 'y': 677, 'h': 69, 'w': 69}, {'x': 644, 'y': 425, 'h': 83, 'w': 83}, {'x': 357, 'y': 371, 'h': 98, 'w': 98}, {'x': 256, 'y': 515, 'h': 93, 'w': 93}, {'x': 393, 'y': 744, 'h': 114, 'w': 114}, {'x': 30, 'y': 797, 'h': 108, 'w': 108}, {'x': 626, 'y': 812, 'h': 111, 'w': 111}, {'x': 95, 'y': 833, 'h': 114, 'w': 114}]}, 'orig': {'faces': [{'x': 392, 'y': 888, 'h': 37, 'w': 37}, {'x': 131, 'y': 375, 'h': 64, 'w': 64}, {'x': 450, 'y': 377, 'h': 58, 'w': 58}, {'x': 317, 'y': 332, 'h': 58, 'w': 58}, {'x': 41, 'y': 368, 'h': 70, 'w': 70}, {'x': 531, 'y': 712, 'h': 65, 'w': 65}, {'x': 515, 'y': 388, 'h': 70, 'w': 70}, {'x': 327, 'y': 677, 'h': 69, 'w': 69}, {'x': 644, 'y': 425, 'h': 83, 'w': 83}, {'x': 357, 'y': 371, 'h': 98, 'w': 98}, {'x': 256, 'y': 515, 'h': 93, 'w': 93}, {'x': 393, 'y': 744, 'h': 114, 'w': 114}, {'x': 30, 'y': 797, 'h': 108, 'w': 108}, {'x': 626, 'y': 812, 'h': 111, 'w': 111}, {'x': 95, 'y': 833, 'h': 114, 'w': 114}]}}}]}" 
+19 "RT @abishmathew: Despacito is not a song, it's an epidemic!" 59 "2017-07-27 13:28:24"  0 96 "{'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'abishmathew', 'name': 'Abish Mathew', 'id': 102957248, 'id_str': '102957248', 'indices': [3, 15]}], 'urls': []}" 
+0 "RT @SavinTheBees: This is the greatest voice acting performance ever lol https://t.co/upYxEnUMXr" 96 "2018-04-12 05:01:18"  0 43069
+1 "RT @mimiadraws: ah, that one painting... The Smooch https://t.co/NZRi1GwNw1" 75 "2018-04-12 04:55:54"  0 304
+2 "RT @_inktho: Reasons why I’m an artist https://t.co/4AxOMwqmwh" 62 "2018-04-12 04:54:01"  0 877
+3 "Find your bae as savage as you! https://t.co/92gIW0kbAm" 55 "2018-04-12 04:53:39"  0 0
+4 "She: I want a hug! 
+Mechanical Engineer : Compass
+            ""awkward silence""" 79 "2017-09-14 15:43:16"  5 0
+5 "RT @kalyanrath: Khud ke description main 'sarcastic' likhne waale log sarcastic nahi, wannabe hote hain." 104 "2017-09-10 04:50:18"  0 708
+6 "RT @IISuperwomanII: You don't need to label yourself. Just be you. No one needs an explanation." 95 "2017-09-10 04:50:01"  0 3482
+7 "RT @IISuperwomanII: You got that good boy attitude and yeah, I kinda like it." 77 "2017-09-01 18:07:01"  0 3603
+8 "RT @IISuperwomanII: Sometimes you just have to accept that you're not compatible with people. No matter who they are." 117 "2017-08-12 14:23:15"  0 2309
+9 "RT @Barshapandey11: When a hot girl poses in a picture.
+My friends :- you are beautiful dear..
+And when its me posing
+F :- "" ye kya kar rah…" 140 "2017-08-09 16:28:49"  0 2
+10 "RT @AbhiUpmanyu: Q:What was that girl doing at midnight alone?
+
+A:Probably returning home frm a party or something else that's NORMAL &amp; non…" 144 "2017-08-07 14:43:06"  0 268
+11 "RT @AbhiUpmanyu: @RahulSubramanic Pehle soch le, fir Sochna. Soche bina Sochna bhi Nahi chahiye." 96 "2017-07-29 17:58:44"  0 24
+12 "RT @abishmathew: It should be made a mandate to check a person's playlist before tying the knot!" 96 "2017-07-29 06:55:11"  0 63
+13 "RT @FeminaIndia: Because cake is #bae. https://t.co/1Xa8aJNXvC" 62 "2017-07-29 06:54:02"  0 6
+14 "Jab Harry met Annabelle!!! https://t.co/Qpci1qYvWO" 50 "2017-07-29 06:45:45"  1 0
+15 "RT @abishmathew: It doesn't matter when you go to bed, what matters is when you put your phone down!" 100 "2017-07-28 13:01:08"  0 367
+16 "RT @Tigeronhunt_: ""Pyaar"" se Dar nhi lagta Saab... ""You deserve better"" se lgta hai" 83 "2017-07-27 13:40:49"  0 15
+17 "When u switch off the gas stove exactly after 3 seetis.... https://t.co/LkWx50xvpj" 82 "2017-07-27 13:33:32"  4 0
+18 "RT @SuckerForHumour: When you get 6-6-5 in ludo https://t.co/TgvnifxSnb" 71 "2017-07-27 13:31:57"  0 8
+19 "RT @abishmathew: Despacito is not a song, it's an epidemic!" 59 "2017-07-27 13:28:24"  0 96
+0 "RT @SavinTheBees: This is the greatest voice acting performance ever lol https://t.co/upYxEnUMXr" 96 "2018-04-12 05:01:18"  0 43069
+1 "RT @mimiadraws: ah, that one painting... The Smooch https://t.co/NZRi1GwNw1" 75 "2018-04-12 04:55:54"  0 304
+2 "RT @_inktho: Reasons why I’m an artist https://t.co/4AxOMwqmwh" 62 "2018-04-12 04:54:01"  0 877
+3 "Find your bae as savage as you! https://t.co/92gIW0kbAm" 55 "2018-04-12 04:53:39"  0 0
+4 "She: I want a hug! 
+Mechanical Engineer : Compass
+            ""awkward silence""" 79 "2017-09-14 15:43:16"  5 0
+5 "RT @kalyanrath: Khud ke description main 'sarcastic' likhne waale log sarcastic nahi, wannabe hote hain." 104 "2017-09-10 04:50:18"  0 708
+6 "RT @IISuperwomanII: You don't need to label yourself. Just be you. No one needs an explanation." 95 "2017-09-10 04:50:01"  0 3482
+7 "RT @IISuperwomanII: You got that good boy attitude and yeah, I kinda like it." 77 "2017-09-01 18:07:01"  0 3603
+8 "RT @IISuperwomanII: Sometimes you just have to accept that you're not compatible with people. No matter who they are." 117 "2017-08-12 14:23:15"  0 2309
+9 "RT @Barshapandey11: When a hot girl poses in a picture.
+My friends :- you are beautiful dear..
+And when its me posing
+F :- "" ye kya kar rah…" 140 "2017-08-09 16:28:49"  0 2
+10 "RT @AbhiUpmanyu: Q:What was that girl doing at midnight alone?
+
+A:Probably returning home frm a party or something else that's NORMAL &amp; non…" 144 "2017-08-07 14:43:06"  0 268
+11 "RT @AbhiUpmanyu: @RahulSubramanic Pehle soch le, fir Sochna. Soche bina Sochna bhi Nahi chahiye." 96 "2017-07-29 17:58:44"  0 24
+12 "RT @abishmathew: It should be made a mandate to check a person's playlist before tying the knot!" 96 "2017-07-29 06:55:11"  0 63
+13 "RT @FeminaIndia: Because cake is #bae. https://t.co/1Xa8aJNXvC" 62 "2017-07-29 06:54:02"  0 6
+14 "Jab Harry met Annabelle!!! https://t.co/Qpci1qYvWO" 50 "2017-07-29 06:45:45"  1 0
+15 "RT @abishmathew: It doesn't matter when you go to bed, what matters is when you put your phone down!" 100 "2017-07-28 13:01:08"  0 367
+16 "RT @Tigeronhunt_: ""Pyaar"" se Dar nhi lagta Saab... ""You deserve better"" se lgta hai" 83 "2017-07-27 13:40:49"  0 15
+17 "When u switch off the gas stove exactly after 3 seetis.... https://t.co/LkWx50xvpj" 82 "2017-07-27 13:33:32"  4 0
+18 "RT @SuckerForHumour: When you get 6-6-5 in ludo https://t.co/TgvnifxSnb" 71 "2017-07-27 13:31:57"  0 8
+19 "RT @abishmathew: Despacito is not a song, it's an epidemic!" 59 "2017-07-27 13:28:24"  0 96
+0 "RT @SavinTheBees: This is the greatest voice acting performance ever lol https://t.co/upYxEnUMXr" 96 "2018-04-12 05:01:18"  0 43069
+1 "RT @mimiadraws: ah, that one painting... The Smooch https://t.co/NZRi1GwNw1" 75 "2018-04-12 04:55:54"  0 304
+2 "RT @_inktho: Reasons why I’m an artist https://t.co/4AxOMwqmwh" 62 "2018-04-12 04:54:01"  0 877
+3 "Find your bae as savage as you! https://t.co/92gIW0kbAm" 55 "2018-04-12 04:53:39"  0 0
+4 "She: I want a hug! 
+Mechanical Engineer : Compass
+            ""awkward silence""" 79 "2017-09-14 15:43:16"  5 0
+5 "RT @kalyanrath: Khud ke description main 'sarcastic' likhne waale log sarcastic nahi, wannabe hote hain." 104 "2017-09-10 04:50:18"  0 708
+6 "RT @IISuperwomanII: You don't need to label yourself. Just be you. No one needs an explanation." 95 "2017-09-10 04:50:01"  0 3482
+7 "RT @IISuperwomanII: You got that good boy attitude and yeah, I kinda like it." 77 "2017-09-01 18:07:01"  0 3603
+8 "RT @IISuperwomanII: Sometimes you just have to accept that you're not compatible with people. No matter who they are." 117 "2017-08-12 14:23:15"  0 2309
+9 "RT @Barshapandey11: When a hot girl poses in a picture.
+My friends :- you are beautiful dear..
+And when its me posing
+F :- "" ye kya kar rah…" 140 "2017-08-09 16:28:49"  0 2
+10 "RT @AbhiUpmanyu: Q:What was that girl doing at midnight alone?
+
+A:Probably returning home frm a party or something else that's NORMAL &amp; non…" 144 "2017-08-07 14:43:06"  0 268
+11 "RT @AbhiUpmanyu: @RahulSubramanic Pehle soch le, fir Sochna. Soche bina Sochna bhi Nahi chahiye." 96 "2017-07-29 17:58:44"  0 24
+12 "RT @abishmathew: It should be made a mandate to check a person's playlist before tying the knot!" 96 "2017-07-29 06:55:11"  0 63
+13 "RT @FeminaIndia: Because cake is #bae. https://t.co/1Xa8aJNXvC" 62 "2017-07-29 06:54:02"  0 6
+14 "Jab Harry met Annabelle!!! https://t.co/Qpci1qYvWO" 50 "2017-07-29 06:45:45"  1 0
+15 "RT @abishmathew: It doesn't matter when you go to bed, what matters is when you put your phone down!" 100 "2017-07-28 13:01:08"  0 367
+16 "RT @Tigeronhunt_: ""Pyaar"" se Dar nhi lagta Saab... ""You deserve better"" se lgta hai" 83 "2017-07-27 13:40:49"  0 15
+17 "When u switch off the gas stove exactly after 3 seetis.... https://t.co/LkWx50xvpj" 82 "2017-07-27 13:33:32"  4 0
+18 "RT @SuckerForHumour: When you get 6-6-5 in ludo https://t.co/TgvnifxSnb" 71 "2017-07-27 13:31:57"  0 8
+19 "RT @abishmathew: Despacito is not a song, it's an epidemic!" 59 "2017-07-27 13:28:24"  0 96
+0 "RT @SavinTheBees: This is the greatest voice acting performance ever lol https://t.co/upYxEnUMXr" 96 "2018-04-12 05:01:18"  0 43069
+1 "RT @mimiadraws: ah, that one painting... The Smooch https://t.co/NZRi1GwNw1" 75 "2018-04-12 04:55:54"  0 304
+2 "RT @_inktho: Reasons why I’m an artist https://t.co/4AxOMwqmwh" 62 "2018-04-12 04:54:01"  0 877
+3 "Find your bae as savage as you! https://t.co/92gIW0kbAm" 55 "2018-04-12 04:53:39"  0 0
+4 "She: I want a hug! 
+Mechanical Engineer : Compass
+            ""awkward silence""" 79 "2017-09-14 15:43:16"  5 0
+5 "RT @kalyanrath: Khud ke description main 'sarcastic' likhne waale log sarcastic nahi, wannabe hote hain." 104 "2017-09-10 04:50:18"  0 708
+6 "RT @IISuperwomanII: You don't need to label yourself. Just be you. No one needs an explanation." 95 "2017-09-10 04:50:01"  0 3482
+7 "RT @IISuperwomanII: You got that good boy attitude and yeah, I kinda like it." 77 "2017-09-01 18:07:01"  0 3603
+8 "RT @IISuperwomanII: Sometimes you just have to accept that you're not compatible with people. No matter who they are." 117 "2017-08-12 14:23:15"  0 2309
+9 "RT @Barshapandey11: When a hot girl poses in a picture.
+My friends :- you are beautiful dear..
+And when its me posing
+F :- "" ye kya kar rah…" 140 "2017-08-09 16:28:49"  0 2
+10 "RT @AbhiUpmanyu: Q:What was that girl doing at midnight alone?
+
+A:Probably returning home frm a party or something else that's NORMAL &amp; non…" 144 "2017-08-07 14:43:06"  0 268
+11 "RT @AbhiUpmanyu: @RahulSubramanic Pehle soch le, fir Sochna. Soche bina Sochna bhi Nahi chahiye." 96 "2017-07-29 17:58:44"  0 24
+12 "RT @abishmathew: It should be made a mandate to check a person's playlist before tying the knot!" 96 "2017-07-29 06:55:11"  0 63
+13 "RT @FeminaIndia: Because cake is #bae. https://t.co/1Xa8aJNXvC" 62 "2017-07-29 06:54:02"  0 6
+14 "Jab Harry met Annabelle!!! https://t.co/Qpci1qYvWO" 50 "2017-07-29 06:45:45"  1 0
+15 "RT @abishmathew: It doesn't matter when you go to bed, what matters is when you put your phone down!" 100 "2017-07-28 13:01:08"  0 367
+16 "RT @Tigeronhunt_: ""Pyaar"" se Dar nhi lagta Saab... ""You deserve better"" se lgta hai" 83 "2017-07-27 13:40:49"  0 15
+17 "When u switch off the gas stove exactly after 3 seetis.... https://t.co/LkWx50xvpj" 82 "2017-07-27 13:33:32"  4 0
+18 "RT @SuckerForHumour: When you get 6-6-5 in ludo https://t.co/TgvnifxSnb" 71 "2017-07-27 13:31:57"  0 8
+19 "RT @abishmathew: Despacito is not a song, it's an epidemic!" 59 "2017-07-27 13:28:24"  0 96
+0 "We have amazing news - the #pycon2020 expo hall is sold out! Thank you to all our sponsors who support the Python c… https://t.co/fkdOD3JH27" 140 "2020-01-10 22:47:02"  35 14
+1 "Support the next generation of coders by being a Young Coder sponsor. The workshop is offered free to kids 12 and o… https://t.co/ewHjhY9yPD" 140 "2020-01-02 23:29:00"  7 6
+2 "Thank you to our Silver sponsors: Union Investment (also a PSF Silver Sponsor), Abridge AI @sandeepkonam,… https://t.co/8YZ1sKypUW" 130 "2019-12-31 21:17:01"  8 6
+3 "Early Bird Tickets have officially sold out.  However, we are excited to have many regular rate tickets available f… https://t.co/pUFapycn9Q" 140 "2019-12-31 15:13:33"  5 7
+4 "Early Bird tickets are selling quickly and the deadline for Hatchery proposals is fast approaching.  Read more deta… https://t.co/Vk7e4LktKC" 140 "2019-12-30 21:58:48"  8 8
+5 "The CFP for #PyCon2020 is officially closed!
+
+Thanks to everyone who submitted a proposal – we wouldn't be here without you. ❤️🐍" 128 "2019-12-21 17:26:00"  63 12
+6 "12 hours left to submit for the #PyCon2020 CFP! Double check your proposal!
+
+Details here: https://t.co/Ozva5tkaQa" 114 "2019-12-20 23:59:00"  15 12
+7 "Time is ticking away! There are only TWO DAYS left to submit your talk, charla, poster, or Education Summit proposa… https://t.co/Ib0272xEt6" 140 "2019-12-18 17:56:36"  36 14
+8 "This is the final week to submit or update you talk, poster or education summit proposals.  Submission deadline is… https://t.co/BCDminPZer" 139 "2019-12-17 22:28:16"  35 27
+9 "Thank you to Magnolia Innovative Solutions, @mis_llc, our first #pycon2020 Patron sponsor! If you'd like to join th… https://t.co/EQlHL6fNoV" 140 "2019-12-14 17:09:01"  3 4
+10 "Call for volunteers!
+
+Want to help put together an amazing tutorials lineup at #PyCon2020?
+
+The Tutorials Committee… https://t.co/lT6lTYqN6o" 140 "2019-12-13 19:40:16"  30 22
+11 "Thank you Pythonistas for being an important part of @ThePSF  #GivingTuesday fundraiser! We don't have the final to… https://t.co/a5nnN3A86e" 140 "2019-12-10 05:12:01"  15 8
+12 "Calling all sponsors! The expo hall is filling up - don't miss out on being part of the largest Python conference i… https://t.co/lZSeDcDWVM" 140 "2019-12-09 21:45:05"  7 10
+13 "There are 2 WEEKS left until the #PyCon2020 CFP closes!
+
+We want you (yes, YOU) to submit a talk, charla, poster, o… https://t.co/qfMn3b3L4k" 140 "2019-12-06 17:11:20"  22 20
+14 "It's not too late to support @ThePSF for #GivingTuesday. We're halfway to our goal. Help us get all the way to $10K… https://t.co/1w0nufxXUZ" 140 "2019-12-05 16:00:21"  8 7
+15 "We're halfway to our goal for #GivingTuesday! To help @ThePSF get all the way to $10K, we're keeping it going for a… https://t.co/LCSpJXxsAm" 140 "2019-12-04 18:25:02"  6 5
+16 "For the 1st @ThePSF  is participating in Giving Tuesday, December 3rd. By giving, you support sprints, meetups, com… https://t.co/fEBq7Gqwpb" 140 "2019-12-03 14:51:01"  6 6
+17 "Are you ready for #GivingTuesdayPSF? It starts tomorrow, Dec. 3 at midnight local time &amp; runs for 24 hours. A donat… https://t.co/30ugpyNJS4" 144 "2019-12-02 13:53:03"  3 4
+18 "￼￼￼￼￼￼￼￼￼￼￼￼This year's #GivingTuesdayPSF is on December 3rd and runs for 24 hours local time. Stay tuned for… https://t.co/smigLG8OZh" 134 "2019-11-30 11:52:01"  8 9
+19 "The PSF is participating in Giving Tuesday on December 3, 2019. This global celebration runs for 24 hours local tim… https://t.co/hadNIAzRBk" 140 "2019-11-26 19:34:02"  10 10
+0 "We have amazing news - the #pycon2020 expo hall is sold out! Thank you to all our sponsors who support the Python c… https://t.co/fkdOD3JH27" 140 "2020-01-10 22:47:02"  35 14
+1 "Support the next generation of coders by being a Young Coder sponsor. The workshop is offered free to kids 12 and o… https://t.co/ewHjhY9yPD" 140 "2020-01-02 23:29:00"  7 6
+2 "Thank you to our Silver sponsors: Union Investment (also a PSF Silver Sponsor), Abridge AI @sandeepkonam,… https://t.co/8YZ1sKypUW" 130 "2019-12-31 21:17:01"  8 6
+3 "Early Bird Tickets have officially sold out.  However, we are excited to have many regular rate tickets available f… https://t.co/pUFapycn9Q" 140 "2019-12-31 15:13:33"  5 7
+4 "Early Bird tickets are selling quickly and the deadline for Hatchery proposals is fast approaching.  Read more deta… https://t.co/Vk7e4LktKC" 140 "2019-12-30 21:58:48"  8 8
+5 "The CFP for #PyCon2020 is officially closed!
+
+Thanks to everyone who submitted a proposal – we wouldn't be here without you. ❤️🐍" 128 "2019-12-21 17:26:00"  63 12
+6 "12 hours left to submit for the #PyCon2020 CFP! Double check your proposal!
+
+Details here: https://t.co/Ozva5tkaQa" 114 "2019-12-20 23:59:00"  15 12
+7 "Time is ticking away! There are only TWO DAYS left to submit your talk, charla, poster, or Education Summit proposa… https://t.co/Ib0272xEt6" 140 "2019-12-18 17:56:36"  36 14
+8 "This is the final week to submit or update you talk, poster or education summit proposals.  Submission deadline is… https://t.co/BCDminPZer" 139 "2019-12-17 22:28:16"  35 27
+9 "Thank you to Magnolia Innovative Solutions, @mis_llc, our first #pycon2020 Patron sponsor! If you'd like to join th… https://t.co/EQlHL6fNoV" 140 "2019-12-14 17:09:01"  3 4
+10 "Call for volunteers!
+
+Want to help put together an amazing tutorials lineup at #PyCon2020?
+
+The Tutorials Committee… https://t.co/lT6lTYqN6o" 140 "2019-12-13 19:40:16"  30 22
+11 "Thank you Pythonistas for being an important part of @ThePSF  #GivingTuesday fundraiser! We don't have the final to… https://t.co/a5nnN3A86e" 140 "2019-12-10 05:12:01"  15 8
+12 "Calling all sponsors! The expo hall is filling up - don't miss out on being part of the largest Python conference i… https://t.co/lZSeDcDWVM" 140 "2019-12-09 21:45:05"  7 10
+13 "There are 2 WEEKS left until the #PyCon2020 CFP closes!
+
+We want you (yes, YOU) to submit a talk, charla, poster, o… https://t.co/qfMn3b3L4k" 140 "2019-12-06 17:11:20"  22 20
+14 "It's not too late to support @ThePSF for #GivingTuesday. We're halfway to our goal. Help us get all the way to $10K… https://t.co/1w0nufxXUZ" 140 "2019-12-05 16:00:21"  8 7
+15 "We're halfway to our goal for #GivingTuesday! To help @ThePSF get all the way to $10K, we're keeping it going for a… https://t.co/LCSpJXxsAm" 140 "2019-12-04 18:25:02"  6 5
+16 "For the 1st @ThePSF  is participating in Giving Tuesday, December 3rd. By giving, you support sprints, meetups, com… https://t.co/fEBq7Gqwpb" 140 "2019-12-03 14:51:01"  6 6
+17 "Are you ready for #GivingTuesdayPSF? It starts tomorrow, Dec. 3 at midnight local time &amp; runs for 24 hours. A donat… https://t.co/30ugpyNJS4" 144 "2019-12-02 13:53:03"  3 4
+18 "￼￼￼￼￼￼￼￼￼￼￼￼This year's #GivingTuesdayPSF is on December 3rd and runs for 24 hours local time. Stay tuned for… https://t.co/smigLG8OZh" 134 "2019-11-30 11:52:01"  8 9
+19 "The PSF is participating in Giving Tuesday on December 3, 2019. This global celebration runs for 24 hours local tim… https://t.co/hadNIAzRBk" 140 "2019-11-26 19:34:02"  10 10
